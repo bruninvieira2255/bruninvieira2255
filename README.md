@@ -1,5 +1,5 @@
-### Hi there 👋
-### Meu nome é Bruno Vieira, e minha jornada profissional gira em torno do emocionante mundo da segurança cibernética como um programador web e pentester do Red Team. Desde o início da minha carreira, fui atraído pelas complexidades da segurança digital e pela interseção entre o desenvolvimento web e a cibersegurança. 
+### Olá! Meu nome é Bruno 👋
+### Minha jornada profissional gira em torno do emocionante mundo da segurança cibernética como um programador web e pentester do Red Team. Desde o início da minha carreira, fui atraído pelas complexidades da segurança digital e pela interseção entre o desenvolvimento web e a cibersegurança. 
 
 ### Programador Web : Como programador web, meu foco é criar aplicações dinâmicas e robustas que não apenas se destacam em termos de design e usabilidade, mas também mantêm a segurança como prioridade. Sou apaixonado por linguagens de programação como Python, JavaScript e Ruby. 🖥️
 
